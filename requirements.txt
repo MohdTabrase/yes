@@ -1,0 +1,7 @@
+ipykernel
+langchain
+langgraph
+langchain-core
+langchain-groq
+langchain-community
+pypdf
